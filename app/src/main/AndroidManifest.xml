@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.uts_h1101171039">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Syn5Activity"></activity>
+        <activity
+            android:name=".ui.login.Syn5Activity"
+            android:label="@string/title_activity_syn5" />
+        <activity android:name=".Syn4Activity" />
+        <activity android:name=".Syn3Activity" />
+        <activity android:name=".Komp5Activity" />
+        <activity android:name=".Komp4Activity" />
+        <activity android:name=".Komp3Activity" />
+        <activity android:name=".Syn2Activity" />
+        <activity android:name=".Komp2Activity" />
+        <activity android:name=".Syn1Activity" />
+        <activity android:name=".Komp1Activity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

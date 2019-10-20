@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Yudi Arif F. - H1101171039</string>
+
+    <string name="komponen1">Activity</string>
+    <string name="komponen2">Service</string>
+    <string name="komponen3">Broadcast Receiver</string>
+    <string name="komponen4">Content Providers</string>
+    <string name="komponen5">Layout</string>
+
+    <string name="syntax">Contoh Syntax</string>
+
+    <string name="link">Link</string>
+
+
+    <string name="activity">Activity adalah titik masuk untuk berinteraksi dengan pengguna. Ini mewakili satu layar dengan antarmuka pengguna.</string>
+    <string name="service">Service adalah titik masuk serbaguna untuk menjaga aplikasi tetap berjalan di latar belakang bagi semua jenis alasan. Ini adalah komponen yang berjalan di latar belakang untuk melakukan operasi yang berjalan lama atau untuk melakukan pekerjaan bagi proses jarak jauh. </string>
+    <string name="br">Broadcast Receiver siaran adalah komponen yang memungkinkan sistem menyampaikan kejadian di luar alur pengguna regular, menjadikan aplikasi tersebut dapat merespons pengumuman siaran seluruh sistem.</string>
+    <string name="cp">Content Providers mengelola set data aplikasi secara bersama-sama, yang dapat Anda simpan di sistem file, di database SQLite, di web, atau di lokasi penyimpanan persisten lain yang dapat diakses aplikasi Anda. Melalui penyedia materi, aplikasi lain bisa melakukan kueri atau memodifikasi data jika penyedia materi mengizinkannya.</string>
+    <string name="layout">Layout berguna mengontrol sebuah View dengan melihatnya sebagai hirarki.</string>
+</resources>
